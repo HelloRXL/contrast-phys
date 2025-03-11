@@ -1,5 +1,7 @@
 # Contrast-Phys and Contrast-Phys+
 
+This project added real-time detection functionality using computer webcam in the demo
+
 **Update: The paper for [Contrast-Phys+](https://ieeexplore.ieee.org/document/10440521) has been accepted by TPAMI. Please check the `contrast-phys+` folder for the code.**
 
 This is the official code repository of our ECCV 2022 paper "Contrast-Phys: Unsupervised Video-based Remote Physiological Measurement via Spatiotemporal Contrast" and our paper "Contrast-Phys+: Unsupervised and Weakly-supervised Video-based Remote Physiological Measurement via Spatiotemporal Contrast". 

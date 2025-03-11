@@ -1,6 +1,6 @@
 # Contrast-Phys and Contrast-Phys+
 
-This project added real-time detection functionality using computer webcam in the demo
+**This project added real-time detection functionality using computer webcam in the [demo/demo_realtime.py](demo/demo_realtime.py)**
 
 **Update: The paper for [Contrast-Phys+](https://ieeexplore.ieee.org/document/10440521) has been accepted by TPAMI. Please check the `contrast-phys+` folder for the code.**
 
